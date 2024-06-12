@@ -77,6 +77,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\0033\OneDrive\Documents\GitHub\PyLearning3xATB\Exer_12062024" />
       <recent name="C:\Users\0033\OneDrive\Documents\GitHub\PyLearning3xATB" />
     </key>
   </component>
@@ -197,7 +198,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718158321747</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Till succeed_retry0093">
+      <option name="closed" value="true" />
+      <created>1718159087903</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1718159087903</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
