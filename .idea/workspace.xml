@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="619d4153-7937-4ffd-ba85-8c379a167a11" name="Changes" comment="Till succeed_retry0092">
+    <list default="true" id="619d4153-7937-4ffd-ba85-8c379a167a11" name="Changes" comment="Till succeed_retry0093">
       <change afterPath="$PROJECT_DIR$/Exer_12062024/Lab038.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Exer_12062024/Lab039.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
@@ -46,6 +46,9 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Exer_03062024/Test002.py" root0="SKIP_INSPECTION" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="DEPENDENCY_CHECKER_PROBLEMS_TAB" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
 }</component>
@@ -63,7 +66,7 @@
     "Python.Lab003.executor": "Run",
     "Python.Lab038.executor": "Run",
     "Python.Lab039.executor": "Run",
-    "Python.Lab040.executor": "Run",
+    "Python.Lab040.executor": "Debug",
     "Python.Test002.executor": "Run",
     "Python.karo again 001.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -76,6 +79,35 @@
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\0033\OneDrive\Documents\GitHub\PyLearning3xATB" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Lab040" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exer_12062024" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exer_12062024/Lab040.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Lab040" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -157,7 +189,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718158290040</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Till succeed_retry0093">
+      <option name="closed" value="true" />
+      <created>1718158321747</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1718158321747</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -180,6 +220,7 @@
     <MESSAGE value="Till succeed_retry0090" />
     <MESSAGE value="Till succeed_retry0091" />
     <MESSAGE value="Till succeed_retry0092" />
-    <option name="LAST_COMMIT_MESSAGE" value="Till succeed_retry0092" />
+    <MESSAGE value="Till succeed_retry0093" />
+    <option name="LAST_COMMIT_MESSAGE" value="Till succeed_retry0093" />
   </component>
 </project>
