@@ -2,11 +2,11 @@
 # out of the loop
 
 # Pass -> ? pass do nothing - skipp the step
-for i in range (10):
+for i in range(10):
     if i == 5:
         pass
     else:
-        print (i)
+        print(i)
 
 
-print ("out of program")
+print("out of program")
