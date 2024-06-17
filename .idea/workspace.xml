@@ -4,18 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="619d4153-7937-4ffd-ba85-8c379a167a11" name="Changes" comment="commit Home1">
-      <change afterPath="$PROJECT_DIR$/Exer_17062024/Lab_060.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exer_17062024/Lab_062.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exer_17062024/Lab_063.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exer_17062024/Lab_064.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exer_17062024/Lab_067.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exer_17062024/Lab_58.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/pythonProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/pythonProject.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_14-06-2024_07_09__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_14-06-2024_07_09__Changes_.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_14-06-2024_07_19__Changes_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_14-06-2024_07_19__Changes_1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="619d4153-7937-4ffd-ba85-8c379a167a11" name="Changes" comment="commit Home3">
+      <change beforePath="$PROJECT_DIR$/Exer_14062024/test my.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exer_14062024/test my.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,13 +64,9 @@
     &quot;Python.Lab039.executor&quot;: &quot;Run&quot;,
     &quot;Python.Lab040.executor&quot;: &quot;Debug&quot;,
     &quot;Python.Lab051.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab_060.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab_062.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab_063.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab_064.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab_58.executor&quot;: &quot;Run&quot;,
     &quot;Python.Test002.executor&quot;: &quot;Run&quot;,
     &quot;Python.karo again 001.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test my.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
@@ -93,8 +79,8 @@
       <recent name="C:\Users\0033\OneDrive\Documents\GitHub\PyLearning3xATB" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Lab_064">
-    <configuration name="Lab_060" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.test my">
+    <configuration name="Lab040" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -103,11 +89,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exer_17062024" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exer_12062024" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exer_17062024/Lab_060.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exer_12062024/Lab040.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -116,7 +102,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab_062" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab051" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -125,11 +111,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exer_17062024" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exer_14062024" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exer_17062024/Lab_062.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exer_14062024/Lab051.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -138,7 +124,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab_063" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="test my" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -147,56 +133,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exer_17062024" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exer_14062024" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exer_17062024/Lab_063.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Lab_064" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="pythonProject" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exer_17062024" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exer_17062024/Lab_064.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Lab_58" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="pythonProject" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="SDK_NAME" value="Python 3.12 (PyLearning3xATB)" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exer_17062024" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exer_17062024/Lab_58.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exer_14062024/test my.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -207,18 +148,16 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Lab_064" />
-        <item itemvalue="Python.Lab_063" />
-        <item itemvalue="Python.Lab_062" />
-        <item itemvalue="Python.Lab_060" />
-        <item itemvalue="Python.Lab_58" />
+        <item itemvalue="Python.test my" />
+        <item itemvalue="Python.Lab051" />
+        <item itemvalue="Python.Lab040" />
       </list>
     </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-5b207ade9991-746f403e7f0c-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.17890.14" />
+        <option value="bundled-python-sdk-48aec45f0201-746f403e7f0c-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.17011.127" />
       </set>
     </attachedChunks>
   </component>
@@ -319,7 +258,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718330236558</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="commit Home3">
+      <option name="closed" value="true" />
+      <created>1718332527180</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1718332527180</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -344,6 +291,7 @@
     <MESSAGE value="Till succeed_retry0092" />
     <MESSAGE value="Till succeed_retry0093" />
     <MESSAGE value="commit Home1" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit Home1" />
+    <MESSAGE value="commit Home3" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit Home3" />
   </component>
 </project>
