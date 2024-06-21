@@ -4,18 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="619d4153-7937-4ffd-ba85-8c379a167a11" name="Changes" comment="commit Home1">
-      <change afterPath="$PROJECT_DIR$/Exer_19062024/Lab071.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exer_19062024/Lab072.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exer_19062024/Lab075.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exer_19062024/Lab076.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exer_19062024/Lab077.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/pythonProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/pythonProject.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_17-06-2024_08_37__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_17-06-2024_08_37__Changes_.xml" afterDir="false" />
+    <list default="true" id="619d4153-7937-4ffd-ba85-8c379a167a11" name="Changes" comment="commit office1">
+      <change afterPath="$PROJECT_DIR$/Exer_21062024/Lab089.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exer_21062024/Lab091.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exer_21062024/Lab092.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exer_21062024/Lab093.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exer_21062024/Lab095.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exer_17062024/Lab_063.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exer_17062024/Lab_063.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task_Assigned/Task_001_Leap year.py" beforeDir="false" afterPath="$PROJECT_DIR$/Task_Assigned/Task_001_Leap year.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,10 +71,14 @@
     "Python.Lab051.executor": "Run",
     "Python.Lab072.executor": "Run",
     "Python.Lab076.executor": "Run",
+    "Python.Lab089.executor": "Run",
+    "Python.Lab092.executor": "Run",
+    "Python.Lab093.executor": "Run",
     "Python.Lab_060.executor": "Run",
     "Python.Lab_062.executor": "Run",
     "Python.Lab_063.executor": "Run",
     "Python.Lab_064.executor": "Run",
+    "Python.Lab_091.executor": "Run",
     "Python.Lab_58.executor": "Run",
     "Python.Task_001_Leap year.executor": "Run",
     "Python.Task_002_factorial.executor": "Run",
@@ -97,29 +96,7 @@
       <recent name="C:\Users\0033\OneDrive\Documents\GitHub\PyLearning3xATB" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Lab076">
-    <configuration name="Lab072" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="pythonProject" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exer_19062024" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exer_19062024/Lab072.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.Lab093">
     <configuration name="Lab076" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject" />
       <option name="ENV_FILES" value="" />
@@ -142,7 +119,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab_063" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab089" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -151,11 +128,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exer_17062024" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exer_21062024" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exer_17062024/Lab_063.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exer_21062024/Lab089.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -164,7 +141,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Task_001_Leap year" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab091" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -173,11 +150,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Task_Assigned" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exer_21062024" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Task_Assigned/Task_001_Leap year.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\achman_saxena\PycharmProjects\PyLearning3xATB\Exer_21062024\Lab091.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -186,7 +163,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Task_002_factorial" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab092" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -195,11 +172,33 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Task_Assigned" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exer_21062024" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Task_Assigned/Task_002_factorial.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exer_21062024/Lab092.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Lab093" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exer_21062024" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exer_21062024/Lab093.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -210,11 +209,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Lab093" />
+        <item itemvalue="Python.Lab092" />
+        <item itemvalue="Python.Lab091" />
+        <item itemvalue="Python.Lab089" />
         <item itemvalue="Python.Lab076" />
-        <item itemvalue="Python.Lab072" />
-        <item itemvalue="Python.Lab_063" />
-        <item itemvalue="Python.Task_001_Leap year" />
-        <item itemvalue="Python.Task_002_factorial" />
       </list>
     </recent_temporary>
   </component>
@@ -322,7 +321,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718330236558</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="commit office1">
+      <option name="closed" value="true" />
+      <created>1718765107165</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1718765107165</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -347,6 +354,7 @@
     <MESSAGE value="Till succeed_retry0092" />
     <MESSAGE value="Till succeed_retry0093" />
     <MESSAGE value="commit Home1" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit Home1" />
+    <MESSAGE value="commit office1" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit office1" />
   </component>
 </project>
