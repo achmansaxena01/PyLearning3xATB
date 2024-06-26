@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="619d4153-7937-4ffd-ba85-8c379a167a11" name="Changes" comment="commit Home4">
-      <change beforePath="$PROJECT_DIR$/Task_Assigned/Task_002_factorial.py" beforeDir="false" afterPath="$PROJECT_DIR$/Task_Assigned/Task_002_factorial.py" afterDir="false" />
+    <list default="true" id="619d4153-7937-4ffd-ba85-8c379a167a11" name="Changes" comment="commit home">
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_26-06-2024_08_22_[Changes]/shelved.patch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_26-06-2024_08_22__Changes_.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_26-06-2024_08_24_[Changes]/shelved.patch" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -325,6 +327,7 @@
     <MESSAGE value="commit Home1" />
     <MESSAGE value="commit Home3" />
     <MESSAGE value="commit Home4" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit Home4" />
+    <MESSAGE value="commit office1" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit office1" />
   </component>
 </project>
