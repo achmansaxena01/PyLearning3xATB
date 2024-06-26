@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="619d4153-7937-4ffd-ba85-8c379a167a11" name="Changes" comment="commit office1">
-      <change afterPath="$PROJECT_DIR$/Exer_26062024/Lab114.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_17-06-2024_08_37_[Changes]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_17-06-2024_08_37__Changes_.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_19-06-2024_07_06_[Changes]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="619d4153-7937-4ffd-ba85-8c379a167a11" name="Changes" comment="commit office1" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -60,68 +54,47 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.Lab001.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab003.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab038.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab039.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab040.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.Lab051.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab072.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab076.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab089.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab092.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab093.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab104.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab107.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab108.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab109.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab_060.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab_062.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab_063.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab_064.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab_091.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab_58.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Task_001_Leap year.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Task_002_factorial.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Test002.executor&quot;: &quot;Run&quot;,
-    &quot;Python.karo again 001.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.Lab001.executor": "Run",
+    "Python.Lab003.executor": "Run",
+    "Python.Lab038.executor": "Run",
+    "Python.Lab039.executor": "Run",
+    "Python.Lab040.executor": "Debug",
+    "Python.Lab051.executor": "Run",
+    "Python.Lab072.executor": "Run",
+    "Python.Lab076.executor": "Run",
+    "Python.Lab089.executor": "Run",
+    "Python.Lab092.executor": "Run",
+    "Python.Lab093.executor": "Run",
+    "Python.Lab104.executor": "Run",
+    "Python.Lab107.executor": "Run",
+    "Python.Lab108.executor": "Run",
+    "Python.Lab109.executor": "Run",
+    "Python.Lab114.executor": "Run",
+    "Python.Lab_060.executor": "Run",
+    "Python.Lab_062.executor": "Run",
+    "Python.Lab_063.executor": "Run",
+    "Python.Lab_064.executor": "Run",
+    "Python.Lab_091.executor": "Run",
+    "Python.Lab_58.executor": "Run",
+    "Python.Task_001_Leap year.executor": "Run",
+    "Python.Task_002_factorial.executor": "Run",
+    "Python.Test002.executor": "Run",
+    "Python.karo again 001.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\0033\OneDrive\Documents\GitHub\PyLearning3xATB\Exer_12062024" />
       <recent name="C:\Users\0033\OneDrive\Documents\GitHub\PyLearning3xATB" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Lab108">
-    <configuration name="Lab093" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="pythonProject" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exer_21062024" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exer_21062024/Lab093.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.Lab114">
     <configuration name="Lab104" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject" />
       <option name="ENV_FILES" value="" />
@@ -210,13 +183,35 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Lab114" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exer_26062024" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exer_26062024/Lab114.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Lab114" />
         <item itemvalue="Python.Lab108" />
         <item itemvalue="Python.Lab109" />
         <item itemvalue="Python.Lab107" />
         <item itemvalue="Python.Lab104" />
-        <item itemvalue="Python.Lab093" />
       </list>
     </recent_temporary>
   </component>
@@ -348,7 +343,15 @@
       <option name="project" value="LOCAL" />
       <updated>1719196851446</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="commit office1">
+      <option name="closed" value="true" />
+      <created>1719369939036</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1719369939036</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
