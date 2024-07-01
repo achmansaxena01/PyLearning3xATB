@@ -11,7 +11,7 @@ class Dog:
 
 
 dog1 = Dog("Chow", "1")
-dog2 = Dog("Mow","2")
+dog2 = Dog("Mow", "2")
 dog3 = Dog()
 dog3.name = "now"
 dog3.id = "3"
@@ -24,5 +24,3 @@ print("https://github.com/PramodDutta/Py3xATBLearning")
 dog1.sleep()
 dog2.sleep()
 dog3.sleep()
-
-
