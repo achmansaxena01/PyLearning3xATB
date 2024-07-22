@@ -1,0 +1,531 @@
+https://app.eraser.io/workspace/zPGHlPfHMUi1uDB0tyqX
+
+API Testing Notes
+Why API Testing?
+All the modern application are using APIs (mandatory)
+API Testing is much cheaper as compared to the UI Testing
+Cost of Bugs is low becoz early Testing.
+Ensure reliability
+Business Login ( Email, passord) - less number Testing in UI.
+No UI
+Testing Pyramid - API Testing efforts also less.
+
+
+What is API ?
+Application Programming Interface
+interface - between two application
+allow the communication between the two diffident application
+Client - (php+html+JS+Css) -> API Testing-> Server(Java)
+Client - (Py+html+JS+Css) -> API Testing-> Server(C#)
+APIs are everywhere
+Two APIs
+Offline - those without internet -  (Hardware)mic -> API Testing(OS) -> Software (voice)
+Online - those who work with internet - Instagram API
+﻿
+API Testing and Unit Testing?
+API Vs Web Service
+SOAP (with Demo) Postman
+REST
+﻿
+
+How to Companies Testing the APIs practically?
+
+﻿
+
+What is Test in APIs?
+Common Bugs in API?
+POSTMAN Basics
+SOAP
+REST
+HTTP Methods
+POSTMAN - write the Test Execution
+API Automation (Request) + Pytest+ Allure Report + Logs + Excel Reader - Custom Framework
+
+﻿
+API?
+Application programming interface.
+communication between two application
+offline or online( http with or without http)
+﻿
+
+Public APIs. - available to public - google maps apis
+Private APIs - Wingify(or BrowserStack) - Which are interanl apis within companies (gmail api within the google is internal)
+﻿
+
+Web Service ->  API over HTTP. which provides some interactions between two applications.
+
+SOAP (XML RPC)
+REST
+﻿
+
+List of APIs
+
+﻿
+﻿apilist.fun/
+
+﻿
+
+Request
+
+Client - Request -> Server
+Methods - GET /POST/ PUT /PATCH /DELETE
+URL + Path Param(QP OR PP) + Headers + Authorization + Body / Payload/ Data
+﻿
+
+Response
+
+Server -> Client
+Response Data
+Status Code
+Headers
+Time(verify)
+What is Test in APIs?
+Checking response message content and structure.
+Verifying data accuracy and consistency.
+Validating response status codes, headers.
+ Response times.
+Ensuring proper error handling and security measures.
+Validate the keys with the Min. and Max range of APIs (e.g maximum and minimum length)
+Have a test case to do XML, JSON Schema validation.
+Keys verification. If we have JSON, XML APIs we should verify it’s that all the keys are coming.
+Verify that how the APIs error codes handled.
+﻿
+
+Why you should perform API Testing?
+Developers make mistake and they create buggy APIs.
+Cost EFFECTIVE
+initial Bug
+Easy to Execute or Business early.
+
+Common Bugs in API?
+Incorrect Status
+Incorrect Response Data.
+Incorrect parameter handling.
+Inconsistent data formats.
+Authentication issues, Headers.
+Functional issues
+Performance issues
+Security issues.
+
+HTTP Methods
+HTTP Methos
+
+Client -> Server - It can use the pre built way to communicate with the Server.
+
+certain rules are given to communicate. - Rules
+
+﻿
+
+GET: Retrieve data from a specified resource
+POST: Submit data to be processed to a specified resource
+PUT: Update a specified resource
+DELETE: Delete a specified resource
+PATCH: Partially modify a resource
+﻿
+
+Get- Fetch the data - (sending body or data)?
+
+Post - submit the data to server ( send data, payload or body), json text, file mp3,  img )
+
+﻿
+
+shubham1@abc.com
+
+shubham2@abc.com
+
+shubham3@abc.com
+
+
+HTTP Status Code (Signal shown by the server to the client)
+
+Single -
+1xx (Informational): Request received, continuing process
+2xx (Success): Request successfully received, understood, and accepted - GREEN color in the chrome
+3xx (Redirection): Further action needs to be taken to complete the request
+4xx (Client Error): The request contains bad syntax or cannot be fulfilled - red Colr
+5xx (Server Error): The server failed to fulfill a valid request
+﻿
+
+
+SOAP (with Demo) Postman
+REST
+POSTMAN Basics
+Authoization (key) - Help to you access Server API
+Basic Auth
+Digest
+API KeyToken
+OAuth 1.0
+OAuth 2.0
+Bearer Token
+JWT
+
+JSON / XML
+
+﻿
+
+﻿
+
+JSON
+Javascript Object notation.  ( Javascript)
+Client - Server ( Transfer the data from the client -> Server)
+Client (c# ) -> Server ( python) - JSON - Both of them supports - Platform indepent. - W
+JSON - Object and Arrays
+Key and Value pair -  (Python -> dict key - value)
+JSON (JavaScript Object Notation) is a lightweight data-interchange format.
+{
+  "name" : "pramod",
+  "age" : 65,
+  "phone" : 9876543210
+}
+
+JSON key ""
+
+{
+  "name" : "pramod",
+  "age" : 65,
+  "phone" : 9876543210
+}
+
+in Javascript
+
+{
+  name : "pramod",
+  age : 65,
+  phone : 9876543210
+}
+
+JSON Values
+following data types:
+
+a string
+a number
+an object
+an array
+a boolean
+null
+﻿
+
+{
+  "name" : "pramod",
+  "age" : 65,
+  "phone" : 9876543210,
+  "first_name" : "delhi",
+  "is_married" : true,
+  "how_many_audi" : null,
+  "address" : {
+    "add_part1" : "123",
+    "add_part2" : "345"
+  },
+  "fruits" : ["apple","orange","bananna"]
+}
+
+JSON Object - JSON Array
+
+{
+  "name" : "pramod",
+  "age" : 65,
+  "gst" : 18.45,
+  "phone" : 9876543210,
+  "first_name" : "delhi",
+  "is_married" : true,
+  "how_many_audi" : null,
+  "address" : {
+    "add_part1" : "123",
+    "add_part2" : "345"
+  },
+  "fruits" : ["apple","orange","bananna"]
+}
+
+JSON Array - JSON Object
+[
+  {
+    "firstname": "Pramod",
+    "lastname": "Dutta",
+    "totalprice": 111,
+    "depositpaid": true,
+    "bookingdates": {
+      "checkin": "2018-01-01",
+      "checkout": "2019-01-01"
+    },
+    "additionalneeds": [
+      "Breakfast",
+      "Lunch",
+      "Dinner"
+    ]
+  },
+  {
+    "firstname": "Jim",
+    "lastname": "Brown",
+    "totalprice": 111,
+    "depositpaid": true,
+    "bookingdates": {
+      "checkin": "2018-01-01",
+      "checkout": "2019-01-01"
+    },
+    "additionalneeds": [
+      "Breakfast",
+      "Lunch",
+      "Dinner"
+    ]
+  }
+]
+
+﻿
+
+XML
+XML stands for eXtensible Markup Language.
+XML was designed to store and transport data.
+XML was designed to be both human- and machine-readable.
+<?xml version="1.0" encoding="UTF-8"?>
+<note>
+  <to>Tove</to>
+  <from>Jani</from>
+  <heading>Reminder</heading>
+  <body>Don't forget me this weekend!</body>
+</note>
+
+﻿
+
+Web Services
+
+SOAP < 6%
+REST - ~75%
+﻿
+
+SOAP
+SOAP stands for Simple Object Access Protocol.
+Client -> Server - give me the data
+SOAP is based on XML.
+SOAP is a W3C recommendation.
+More Secure.
+Envelope - information you need to wrap and open and close.
+﻿
+
+﻿
+﻿www.dataaccess.com/webservicesserver/NumberConversion.wso?op=NumberToWords
+
+POSTMan Collection - TC = 6
+
+﻿
+﻿api.postman.com/collections/611814-4f11ca41-cb4a-459f-8f12-e13fea08db9a?access_key=PMAT-01J2T40MJZ1ZPF0K7F5FPCJ3TF
+
+﻿
+
+Run the Code in the Newman(Postman Commandline and Create HTML Report
+
+Install the NodeJS -
+﻿nodejs.org/en/download/package-manager
+Go the Terminal
+node --version
+npm --version
+
+newman commandline tool to run the postman collection
+npm install -g newman
+newman --version
+npm install -g newman-reporter-htmlextra
+
+Postman Basics -
+Last Class
+
+SOAP Request Collection
+Postman Download
+Newman - Comnad line tool for the postman ( cmd or cli) -> POSTMAN cli - collection fo the Postman. -> Postman
+Newman HTML Reporter
+﻿
+
+Today's agenda
+
+﻿
+
+REST API - Example - POSTMAN | (newman Report)
+
+REST is an acronym for Representational State Transfer.
+Client -> Server (state)
+with 6 Rules / six constraints.  -
+1 Client -> Server
+Roy Fielding - HTTP -> SOAP (owned) -> MS - C#,
+﻿ASP.net
+Design your API -> 6 Constraints
+JSON /XML -
+HTTP -> Methods , Headers, Cookie
+Auth ->
+No ENVELOP
+Directly send client -> server via the JSON or XML.
+﻿
+
+Import the REST API Project into the POSTMAN | Collection and Testa case.
+
+Two ways
+
+API Documentation -
+CURL - request - command line request to work with the REST APIS
+No API Documentation
+Create a rough High LEVEL documentation by Yourself.
+Module we have to test
+Create a collection based on the that,
+﻿
+
+API Documentation
+
+CURL Request
+URLs
+HTTP Methods - GET, POST, PUT, PATCH, DELETE
+AuthoriZation, Cookie, Token.
+Payload. - JSON / XML
+Response
+Which status code, How you can verify the Response
+﻿
+
+REAL Example
+
+restful-booker project
+REST APIs, what you can - CRUD - Operation - Create Booking, Read a Booking, Update , Delete a Booking.
+Endpoints
+﻿
+
+﻿
+
+Test Cases for the Create Booking
+
+Create booking with valid Data.
+Create booking with invalid firstName (null) - G
+Invalid JSON
+Invalid Total Price
+Empty Values of all fields
+Invalid mandatory
+Min and Max values for all - Total - 1100000000000000000
+Invalid URL -
+Deposit false
+Long name - dasdasdasdasdasdase2eeedasdasdad
+Arabic Names - ع لبولندا، عل. , Chinese Name. 転張外。退
+Special Char !@#$#@#$
+Different date format - 31/2/23
+Response Time
+﻿
+
+Verify in the
+
+Response
+Status Code
+Time taken
+Headers
+JSON schema validation
+﻿
+
+Integration Scenario
+
+Create a Booking -> Update the Booking Name -> Get the Booking by Id and verify.
+Create a Booking -> Delete the Booking with Id -> Verify using GET request that it should not exist.
+Create a BOOKING -> Delete It.
+Get an Existing Booking from Get All Bookings Ids -> Update a Booking -> Verify using GET by id.
+﻿
+
+Non API Documentation ( Startups)
+
+﻿
+﻿docs.google.com/document/d/1OVxw2b9XHutE_trecdlP1lvWrn5u_yw3/edit?usp=sharing&ouid=104755920778477387077&rtpof=true&sd=true
+URL
+Payload
+HTTP Method
+Status
+What to verify
+Request body
+Header
+Auth
+Cookie
+Token?
+API Automation framework Request + PyTest + allure Report -> TC > 200
+
+Python
+
+Pytest
+
+Request
+
+Allure Report
+
+other -> API Automation Hybrid Automation -> more scable - Yes
+
+You can automation any REST apis -
+﻿
+Agenda
+
+Javascript for Postman Automation Test cases.
+Write the POSTMAN Test cases in Collection -> pm.test()
+Variables in POSTMAN and Collection finish.
+
+Agenda
+Manual Testing API
+
+Requirement
+API Documentation  - Google Doc, Word, Conflience, Postman Documentation, Swagger Doc.
+Create your own Documentation - Create High Level Basic Document - Details of the APIs which we want to Test.
+Test Plan, - QA Lead -> Google Excel, or Google Doc.
+Test Cases -> Google Sheet, JIRA(TMT), TestLink.....
+Postman - Collections
+Variable, environment, Test Scripts - to write the basic Test cases( postman automation).
+
+Test Automaton
+Test Automation -> Test case - 20 -> Automate them -> Python + Request + pyTest + Allure Report ->. Proper framework -> Regression Test suite -> run via the Jenkins Daily - (Git).
+﻿
+
+﻿
+
+REQUEST Module & PyTest Module
+HTTP Fundamentals - API Testing
+URL, Headers, Cookies, REST, SOAP
+Status Code,
+Verify - Test Framework ER == AR.
+﻿
+
+API Automation
+
+How to Make request?
+Request - Python -> Java Rest Assured.
+HTTP Methods ( GET, POST, PUT, PATHC, DELETE, OPTIONS)...
+How to verify the request?
+Test Framework.
+PyTest  -> Java( TestNG)
+How to run the Code that which we have written?
+Jenkins + GIT
+﻿
+
+﻿
+
+PyTest
+
+Testing Framework - Help you to write the Test cases.
+Help you to verify the expected Result == Actual Result.
+Manage your Test cases.
+Supports of libraries or modules.
+﻿
+
+Mark
+100 -> mark 20 - Smoke, 25 Sanity, 55- Regression
+QA Lead - pytest -m "regression"
+﻿
+
+Install pytest
+Create your first test
+Run multiple tests
+Assert that a certain exception is raised
+Group multiple tests in a class
+
+Request
+Introduction.
+Python Request Module.
+The GET Request.
+The POST Request.
+Status Code.
+JSON Response.
+Request Header.
+The Message Body.
+﻿
+
+﻿
+
+﻿
+
+﻿
+
+﻿
