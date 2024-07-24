@@ -5,13 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="619d4153-7937-4ffd-ba85-8c379a167a11" name="Changes" comment="commit office3 july">
-      <change afterPath="$PROJECT_DIR$/July/Exer_05072024/Lab175.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/July/Exer_05072024/Lab176.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/July/Exer_05072024/LearningPytho.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/July/Exer_22072024/test_Lab180.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/July/Exer_22072024/test_Lab181.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_26-06-2024_08_30_[Changes]1/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_26-06-2024_08_30__Changes_1.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/July/Exer_24072024/test_Lab184.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/July/Exer_24072024/test_Lab186.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -66,6 +61,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python tests.Python tests for test_Lab180.test_addition.executor": "Run",
+    "Python tests.Python tests for test_Lab184.test_get_single_request_by_id.executor": "Run",
     "Python tests.Python tests in test_Lab180.py.executor": "Run",
     "Python.Lab001.executor": "Run",
     "Python.Lab003.executor": "Run",
@@ -111,29 +107,7 @@
       <recent name="C:\Users\0033\OneDrive\Documents\GitHub\PyLearning3xATB" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.Python tests in test_Lab180.py">
-    <configuration name="Lab154" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="pythonProject" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/July/Exer_03072024" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/July/Exer_03072024/Lab154.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python tests.Python tests for test_Lab184.test_get_single_request_by_id">
     <configuration name="Lab159" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject" />
       <option name="ENV_FILES" value="" />
@@ -193,6 +167,21 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
+    <configuration name="Python tests for test_Lab184.test_get_single_request_by_id" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/July/Exer_24072024" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_Lab184.test_get_single_request_by_id&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
     <configuration name="Python tests in test_Lab180.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="pythonProject" />
       <option name="ENV_FILES" value="" />
@@ -210,11 +199,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Python tests for test_Lab184.test_get_single_request_by_id" />
         <item itemvalue="Python tests.Python tests in test_Lab180.py" />
         <item itemvalue="Python tests.Python tests for test_Lab180.test_addition" />
         <item itemvalue="Python.Lab175" />
         <item itemvalue="Python.Lab159" />
-        <item itemvalue="Python.Lab154" />
       </list>
     </recent_temporary>
   </component>
@@ -378,7 +367,15 @@
       <option name="project" value="LOCAL" />
       <updated>1719975114214</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="commit office3 july">
+      <option name="closed" value="true" />
+      <created>1721615516143</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1721615516143</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
